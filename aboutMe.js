@@ -35,7 +35,7 @@ const allowedPets= 3;
 // if it's not true, console log "How about we stay home?"
 
 if ( adventurous=true) {
-    console.log("Adventues are great!"); 
+    console.log('Adventues are great!'); 
 }
 else if (adventurous=false)  {
 console.log("How about we stay home?")
